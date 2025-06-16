@@ -1,0 +1,7 @@
+package Practica_7_Ejercicio_Universitario;
+
+public class Main {
+    public static void main(String[] args) {
+
+    }
+}
